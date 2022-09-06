@@ -28,3 +28,6 @@ B.S. Sustainable Development 2022
   * Normalized Difference Vegetation Index
   * Visible Atmospherically Resistant Index
 - Chemical transport modeling for hazardous material through GIS - <a href='https://acsess.onlinelibrary.wiley.com/doi/pdfdirect/10.2134/jeq1996.00472425002500030015x'>Solute Transport Modeling Article</a>
+
+
+---
