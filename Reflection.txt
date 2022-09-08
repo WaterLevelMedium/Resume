@@ -1,0 +1,17 @@
+Through this assignment, I was able to quickly create an informative read me
+document. A new skill I learned through this process was double indented
+lists, wherein asterisks versus dash lines spaced below the header line will
+produce an indented list. This was interesting as I wasn't aware markdown was
+sensitive to indentation/spaces. I also was able to recognize some variance in
+syntax when the .md document was being rendered by the 'Markdown Preview
+Enhanced' package versus online in git. Superscripts written as [ NORMAL WORD
+^superscript^ ] will show up in Atom but not on Github. 
+
+Through this assignment, I was also able to utilize atom's integrated git
+features, wherein the 'Publish' button in the lower left of atom completes the
+same operation as 'git push origin master'. The issue I found was an error in
+the global user configuration on my local machine versus within atom. Once the
+initial commit was pushed to github through the atom git package and the
+global user login was configured, I was able to simply use 'git push' to
+publish future commits. This assignment helped to refresh my knowledge of the
+git change-tracking workflow between systems/machines/os. 
